@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/library-react/static/css/main.a04b4a12.css",
+    "main.js": "/library-react/static/js/main.ba894f0a.js",
+    "static/js/787.d1f3c4bf.chunk.js": "/library-react/static/js/787.d1f3c4bf.chunk.js",
+    "static/media/Undraw_Books.svg": "/library-react/static/media/Undraw_Books.64f45ed25262241aba12eff6dcb25d88.svg",
+    "static/media/Library.svg": "/library-react/static/media/Library.bec72f00ca8e17a87ef2cd05953d228a.svg",
+    "static/media/empty_cart.svg": "/library-react/static/media/empty_cart.378125a834ec5473a1cffd7c59e06527.svg",
+    "index.html": "/library-react/index.html",
+    "static/media/wave.svg": "/library-react/static/media/wave.47e43130c0ee9f20a86d.svg",
+    "main.a04b4a12.css.map": "/library-react/static/css/main.a04b4a12.css.map",
+    "main.ba894f0a.js.map": "/library-react/static/js/main.ba894f0a.js.map",
+    "787.d1f3c4bf.chunk.js.map": "/library-react/static/js/787.d1f3c4bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a04b4a12.css",
+    "static/js/main.ba894f0a.js"
+  ]
+}
